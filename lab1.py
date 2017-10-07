@@ -26,7 +26,7 @@ print(sub("who should do what?"))
 
 #Ex2
 for a in ['how', 'why', 'however', 'where', 'never']:
-    print("*" + " " + a[:2] + " " + a)
+    print("* " + a[:2] + " " + a)
     
 #Ex3
 for a in list1:
